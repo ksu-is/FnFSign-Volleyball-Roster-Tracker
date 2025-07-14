@@ -1,9 +1,9 @@
 # Sprint 1
-- [] Turn in approved projet topic
-- [] Join KSU-IS organization
-- [] Have ownership of a repository within KSU-IS
-- [] Edit and commit readme file
-- [] Explore and run other Python code relating to my project
+- [x] Turn in approved projet topic
+- [x] Join KSU-IS organization
+- [x] Have ownership of the repository within KSU-IS
+- [x] Edit and commit readme file
+- [x] Explore and run other Python code relating to my project
 
 # Sprint 2
 - [] Begin coding
