@@ -6,10 +6,10 @@
 - [x] Explore and run other Python code relating to my project
 
 # Sprint 2
-- [] Begin coding
-- [] Make small updates and commit messages with them
-- [] Commit at least 6 code changes
-- [] Update tasks on the roadmap
+- [x] Begin coding
+- [x] Make small updates and commit messages with them
+- [x] Commit at least 6 code changes
+- [x] Update tasks on the roadmap
 
 # Sprint 3
 - [] Continue coding
