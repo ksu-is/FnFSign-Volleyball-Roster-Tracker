@@ -1,4 +1,6 @@
-from gettext import install
+# FnFSign - Volleyball Roster Tracker
+# This script creates a GUI application to submit volleyball team rosters to an Excel file.
+# It uses the Tkinter library for the GUI and openpyxl for Excel file manipulation.
 import tkinter as tk
 from tkinter import *
 
@@ -35,7 +37,7 @@ def submit_team():
 
 # GUI
 window = Tk()
-window.title("FnFSign Lite – Team Roster Submission")
+window.title("FnFSign – Team Roster Submission")
 window.geometry("500x500")
 
 Label(window, text="Tournament Name").pack()
