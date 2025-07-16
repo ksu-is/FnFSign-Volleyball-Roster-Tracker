@@ -5,7 +5,7 @@ from tkinter import *
 import openpyxl
 import os
 
-# Excel setup
+# Setting up excell
 file_path = "tournament_rosters.xlsx"
 if not os.path.exists(file_path):
     workbook = openpyxl.Workbook()
@@ -13,7 +13,7 @@ if not os.path.exists(file_path):
     sheet.append(["Tournament Name", "Division", "Team Name", "Player Names"])
     workbook.save(file_path)
 
-# Submit function
+# 
 def submit_team():
     tournament = entry_tournament.get()
     division = entry_division.get()
